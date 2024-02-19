@@ -8,6 +8,11 @@ This project is an Invoice Management System implemented in C++. The system allo
 
 - **Show Invoice**: Displays a prototype of the generated invoice, showing the details of each item, including the item name, quantity, unit price, and total price. It also provides the overall total for the invoice.
 
+### Cloning the Repository
+
+git clone https://github.com/TheWizard4k/Cash-Carry.git
+
+
 ## How to Use
 
 1. Run the program.
@@ -26,7 +31,3 @@ This project is an Invoice Management System implemented in C++. The system allo
 
 *This project was created as part of the semester coursework, focusing on C++ programming skills and basic console-based user interfaces.*
 
-### Cloning the Repository
-
-```bash
-git clone https://github.com/TheWizard4k/Cash-Carry.git
