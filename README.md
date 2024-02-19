@@ -25,3 +25,8 @@ This project is an Invoice Management System implemented in C++. The system allo
 
 
 *This project was created as part of the semester coursework, focusing on C++ programming skills and basic console-based user interfaces.*
+
+### Cloning the Repository
+
+```bash
+git clone https://github.com/TheWizard4k/Cash-Carry-.git
