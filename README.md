@@ -29,4 +29,4 @@ This project is an Invoice Management System implemented in C++. The system allo
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/TheWizard4k/Cash-Carry-.git
+git clone https://github.com/TheWizard4k/Cash-Carry.git
